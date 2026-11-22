@@ -1,5 +1,12 @@
 ## Hello.
 
-Recent projects: 
+**Recent projects: **
+
  - Android @ [Caughtup](https://github.com/Arosarion/Caughtup)
+
+
+**Previously: **
+
+
+
 
